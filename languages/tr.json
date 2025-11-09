@@ -34,7 +34,7 @@
  "Congratulation, Your System Is Up To Date." : "Tebrikler, sisteminiz güncel.", 
  "Connection Error" : "Bağlantı Hatası",
  "Connection To The Market Place Can Not Be Made. Please Check Your Internet Connection." : "Markete bağlanılamadı. İnternet bağlantınızı kontrol edin.",
- "Contacting GitHub ..." : "GitHub erişiliyor...",
+ "Contacting GitHub ..." : "GitHub´a erişiliyor...",
  "Contacting" : "Bağlanıyor",
  "Continue" : "Devam Et",
  "Copied to Clipboard" : "Panoya Kopyala",
@@ -195,3 +195,4 @@
  "Your Version" : "Kullandığınız Versiyon"
 
 }
+
